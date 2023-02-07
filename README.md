@@ -1,2 +1,2 @@
 # SelectMenuInteraction
- A handler for select menus using the discord.js library
+ A structure for select menus using the discord.js library
