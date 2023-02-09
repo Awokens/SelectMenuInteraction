@@ -1,2 +1,9 @@
-# SelectMenuInteraction
- A structure for selecting menus using the discord.js library
+# Example
+```typescript
+export default new SelectMenuInteraction({
+    type: 'channel',
+    run: async ({ interaction }) => {
+        // do stuff
+    }
+});
+```
